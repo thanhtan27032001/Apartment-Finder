@@ -1,0 +1,183 @@
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.exe
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.AssemblyReference.cache
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemHinhThamKhao.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.ItemNhaTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemPhongTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDang.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDangQL.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelHome.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLLichHen.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTin.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelYeuThich.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.DataTableGUI.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormChiTietTin.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangKy.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangNhap.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDangTinPhongTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormFilter.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormQLPhongTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaNhaTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaPhongTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaTin.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemNhaTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemPhongTro.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormXemAnh.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.Properties.Resources.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.GenerateResource.cache
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfoInputs.cache
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfo.cs
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CoreCompileInputs.cache
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CopyComplete
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.dll
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\refint\DangTinThueTro.dll
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.deps.json
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.runtimeconfig.json
+D:\Project C#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.genruntimeconfig.cache
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\ref\DangTinThueTro.dll
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelLichHen.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelQLTaiKhoan.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDatLichHen.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenDat.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenNhan.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormMainAdmin.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormMainUser.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiSDT.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiTen.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiMatKhau.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelDuyetTinDang.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelXacThucNguoiDung.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemDuyetTinDang.resources
+D:\Project C#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemXacThucNguoiDung.resources
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.exe
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.deps.json
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.runtimeconfig.json
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProjectC#\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.AssemblyReference.cache
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemDuyetTinDang.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemHinhThamKhao.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenDat.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenNhan.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.ItemNhaTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemPhongTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDang.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDangQL.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemXacThucNguoiDung.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelDuyetTinDang.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelHome.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelLichHen.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLLichHen.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelQLTaiKhoan.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTin.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelXacThucNguoiDung.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelYeuThich.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.DataTableGUI.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormChiTietTin.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangKy.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangNhap.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDangTinPhongTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDatLichHen.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiMatKhau.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiSDT.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiTen.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormFilter.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormMainAdmin.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormMainUser.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormQLPhongTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaNhaTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaPhongTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaTin.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemNhaTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemPhongTro.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormXemAnh.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.Properties.Resources.resources
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.GenerateResource.cache
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfoInputs.cache
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfo.cs
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CoreCompileInputs.cache
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CopyComplete
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.dll
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\refint\DangTinThueTro.dll
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.genruntimeconfig.cache
+D:\ProjectC#\DangTinThueTro\obj\Debug\net6.0-windows\ref\DangTinThueTro.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.exe
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.deps.json
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.runtimeconfig.json
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.AssemblyReference.cache
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemDuyetTinDang.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemHinhThamKhao.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenDat.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemLichHenNhan.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.ItemNhaTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemPhongTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDang.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemTinDangQL.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.ItemXacThucNguoiDung.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelDuyetTinDang.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelHome.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelLichHen.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLLichHen.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelQLTaiKhoan.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTin.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelQLTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.CustomComponent.PanelXacThucNguoiDung.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.CustomComponent.PanelYeuThich.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.DataTableGUI.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormChiTietTin.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangKy.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormDangNhap.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDangTinPhongTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDatLichHen.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiMatKhau.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiSDT.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormDoiTen.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormFilter.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormMainAdmin.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.FormMainUser.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormQLPhongTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaNhaTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaPhongTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormSuaTin.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemNhaTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormThemPhongTro.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GUI.FormGUI.FormXemAnh.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.Properties.Resources.resources
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.GenerateResource.cache
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfoInputs.cache
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.AssemblyInfo.cs
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CoreCompileInputs.cache
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.csproj.CopyComplete
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\refint\DangTinThueTro.dll
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.pdb
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\DangTinThueTro.genruntimeconfig.cache
+D:\University\Nhập môn Công nghệ phần mềm\Nhóm 9\DangTinThueTro\DangTinThueTro\obj\Debug\net6.0-windows\ref\DangTinThueTro.dll

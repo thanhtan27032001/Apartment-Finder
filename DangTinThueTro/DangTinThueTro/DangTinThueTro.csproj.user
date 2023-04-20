@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\CustomComponent\ItemDuyetTinDang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemHinhThamKhao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemLichHenDat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemLichHenNhan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemNhaTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemPhongTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemTinDang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemTinDangQL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\ItemXacThucNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelDuyetTinDang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelLichHen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelQLLichHen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelQLTaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelQLTin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelQLTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelXacThucNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\CustomComponent\PanelYeuThich.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\DataTableGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDatLichHen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDoiSDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDoiTen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormMainAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormSuaTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormSuaPhongTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormChiTietTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormDangTinPhongTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormMainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormQLPhongTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormSuaNhaTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormThemNhaTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormThemPhongTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FormGUI\FormXemAnh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
